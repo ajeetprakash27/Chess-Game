@@ -11,6 +11,10 @@ An interactive chess game where two AI agents powered by OpenAI's GPT-4o-mini pl
 - **Game State Tracking**: Complete move history with visual board states
 - **Web-based Interface**: Easy-to-use Streamlit application
 - **Secure API Key Management**: Password-protected OpenAI API key input
+__________________________________________________________________________________________________________________________________
+![WhatsApp Image 2025-12-17 at 18 42 12_c4c0205a](https://github.com/user-attachments/assets/c580fed5-44db-4337-a433-07bbc020d6bf)
+
+___________________________________________________________________________________________________________________________________
 
 ## Architecture
 
